@@ -1,16 +1,60 @@
-## Hi there 👋
+# Valentina Monti
 
-<!--
-**valmon-01/valmon-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business background → Data & AI focused builder**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Business Administration graduate with experience in consulting, KPI management and data analysis.
+
+My professional foundation is rooted in understanding how organizations make decisions. Over time, my interest evolved toward understanding how digital products are actually built — not only how they are analyzed.
+
+I am currently deepening my technical skills by building full-stack applications and integrating AI into real-world projects, approaching technology from a structured, analytical and product-oriented perspective.
+
+---
+
+## Focus
+
+Data & Analytics  
+AI Integration in Digital Products  
+System Architecture & Product Thinking  
+Technology Applied to Decision-Making  
+
+---
+
+## Tech & Tools
+
+**Frontend**  
+Next.js · React · TypeScript · Tailwind  
+
+**Backend & Infrastructure**  
+Serverless Functions (Vercel) · Supabase · PostgreSQL · Row Level Security  
+
+**AI**  
+LLM APIs (Groq / Llama 3) · Claude Code  
+
+**Data & BI**  
+Excel · Power BI · Looker Studio  
+
+---
+
+## Featured Work
+
+### renglón
+
+A full-stack creative writing web application with authentication, database persistence and AI-generated daily prompts.
+
+Designed to explore product architecture, user flows and the practical integration of large language models in production environments.
+
+github.com/valmon-01/renglon
+
+---
+
+## Learning Philosophy
+
+I use AI-assisted development tools to accelerate prototyping and deepen my understanding of system design, data flow and technical trade-offs.
+
+My objective is not simply to generate code, but to understand the reasoning behind architectural decisions and build with intention.
+
+Technology, for me, is not experimentation — it is structured exploration.
