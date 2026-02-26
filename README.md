@@ -8,7 +8,7 @@
 
 Business Administration graduate with experience in consulting, KPI management and data analysis.
 
-My professional foundation is rooted in understanding how organizations make decisions. Over time, my interest evolved toward understanding how digital products are actually built — not only how they are analyzed.
+My professional foundation is rooted in understanding how organizations make decisions. Over time, my interest evolved toward understanding how digital products are actually built.
 
 I am currently deepening my technical skills by building full-stack applications and integrating AI into real-world projects, approaching technology from a structured, analytical and product-oriented perspective.
 
@@ -32,7 +32,7 @@ Next.js · React · TypeScript · Tailwind
 Serverless Functions (Vercel) · Supabase · PostgreSQL · Row Level Security  
 
 **AI**  
-LLM APIs (Groq / Llama 3) · Claude Code  
+Claude Code · LLM APIs (Groq)
 
 **Data & BI**  
 Excel · Power BI · Looker Studio  
@@ -53,8 +53,4 @@ github.com/valmon-01/renglon
 
 ## Learning Philosophy
 
-I use AI-assisted development tools to accelerate prototyping and deepen my understanding of system design, data flow and technical trade-offs.
-
-My objective is not simply to generate code, but to understand the reasoning behind architectural decisions and build with intention.
-
-Technology, for me, is not experimentation — it is structured exploration.
+I use AI-assisted development tools to accelerate prototyping and deepen my understanding of system design, data flow and technical trade-offs. My objective is not simply to generate code, but to understand the reasoning behind architectural decisions and build with intention.
